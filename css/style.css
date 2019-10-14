@@ -1,0 +1,35 @@
+/*-----------homepage--------*/
+.row.filter {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.filter .col-6 {
+  padding: 0;
+}
+.col {
+  padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+page-tutorial .margin-side {
+  margin-top: 25%;
+}
+page-tutorial .slide-title {
+  /* margin-top: 46rem;*/
+}
+page-tutorial .swiper-pagination-bullets {
+  bottom: 30% !important;
+}
+page-tutorial .slide-zoom {
+  /* height: 100%; */
+  position: absolute;
+  bottom: 15%;
+}
